@@ -1,0 +1,8 @@
+include dir /Users/johannesfrohlich/workspace/react-fittext
+scanning /Users/johannesfrohlich/workspace/react-fittext
+└─ react-fittext@1.0.0
+   ├─ licenses: MIT
+   ├─ licenseUrl: http://www.mit-license.org
+   └─ parents: UNDEFINED
+
+Number of entries found: 1
